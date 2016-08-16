@@ -1,0 +1,10 @@
+{"glossary": [
+    {
+      "term": "Algorithm",
+      "definition": "A step by step process that describes how to solve a problem and/or complete a task, which will always give a result."
+    },
+    {
+      "term": "Binary Search",
+      "definition": "Searching a sorted list by looking at the middle item, and then searching the appropriate half recursively (used for phone books, dictionaries and computer algorithms)."
+    }
+]}
